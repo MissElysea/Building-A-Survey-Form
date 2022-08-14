@@ -1,0 +1,42 @@
+header {
+    text-align: center;
+    color: white;
+    font-size: 12px
+  }
+  
+  .description {
+  font-style: italic;
+  }
+
+  .form-group {
+    padding: 10px;
+    background-color: rgba(0,0,0,0.4);
+    max-width: 500px;
+    margin: auto;
+    }
+  
+  body {
+    text-align: center;
+    background-image: url(https://pradaandpearls.com/wp-content/uploads/2020/10/Blank-600-x-900-185.jpg);
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    color: white;
+    font-weight: 400;
+    font-size: 1rem;
+    line-height: 1.4;
+    font-family: times new roman, serif;
+    display: block;
+    margin: 0;
+  }
+  
+  button {
+    color: white;
+    font-size:16px;
+    padding: 6px;
+    border-radius: 10px;
+    background-color: black;
+    box-shadow: 4px 4px 4px 1px gray;
+    margin-top: 15px
+  }
+          
